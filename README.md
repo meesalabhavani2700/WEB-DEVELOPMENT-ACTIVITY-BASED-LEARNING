@@ -1,1 +1,16 @@
 # WEB-DEVELOPMENT-ACTIVITY-BASED-LEARNING
+NAME:MEESALA BHAVANI
+
+ROLL NUMBER:26000041
+
+BRANCH:CSE
+
+SECTION:1
+
+SELECTED 3 CASE STUDIES
+
+1.Personal Portfolio Website
+
+2.Real Estate Property Listing Website
+
+3.Bus and Train Ticket Booking Interface
